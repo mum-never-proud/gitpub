@@ -1,0 +1,15 @@
+{
+  "name": "gitpub",
+  "version": "1.0.0",
+  "description": "try out github features & actions...",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "github",
+    "pub"
+  ],
+  "author": "mum-never-proud",
+  "license": "ISC"
+}
